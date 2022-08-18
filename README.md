@@ -1,4 +1,4 @@
-Hi! My name is **Mihir Baidya**, I have created this MERN Stack Project.
+Hi! My name is **Ashutosh Vimal**, I have created this MERN Stack Project.
 
 # Prerequisite
 
@@ -34,6 +34,4 @@ CLOUDINARY_API_SECRET
 
 ## Author
 
-**Instagram** Click [Here](https://www.instagram.com/mihir_baidya) **@Mihir_Baidya**
-**Facebook** Click [Here](https://www.facebook.com/profile.php?id=100013249242875) **Mihir Baidya**
-**LinkedIn** Click [Here](https://www.linkedin.com/in/mihir-baidya/) **@Mihir Baidya**
+Ashutosh Vimal
